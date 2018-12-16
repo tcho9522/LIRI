@@ -9,4 +9,20 @@ There are four commands:
   putting this and any movie in the command line will give you all kinds of data for the movie
 4. do-what-it-says:
   will take in the text from a text file to perform one of the three commands listed above.
-![image of concer-this](https://github.com/tcho9522/LIRI/blob/master/images/concert-this.PNG)
+  
+Example of finding a concert for the artist Drake
+![image of concert-this](https://github.com/tcho9522/LIRI/blob/master/images/concert-this.PNG)
+
+Example of finding information about the song Sunflower by Post Malone 
+![image of spotify-this-song](https://github.com/tcho9522/LIRI/blob/master/images/spotify-this.PNG)
+
+Example of finding information about the movie Elf
+![image of movie-this](https://github.com/tcho9522/LIRI/blob/master/images/movie-this.PNG)
+
+NOTE: if you want to search anything with multiple words, use quotations.
+
+What happens with proper quotations
+![image with quotes](https://github.com/tcho9522/LIRI/blob/master/images/quotes.PNG)
+
+What happens without proper quotations. It will take the first song with the first word in your search parameter
+![image without quotes](https://github.com/tcho9522/LIRI/blob/master/images/without-quotes.PNG)
