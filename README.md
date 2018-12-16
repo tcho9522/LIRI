@@ -9,3 +9,4 @@ There are four commands:
   putting this and any movie in the command line will give you all kinds of data for the movie
 4. do-what-it-says:
   will take in the text from a text file to perform one of the three commands listed above.
+![image of concer-this](https://github.com/tcho9522/LIRI/blob/master/images/concert-this.PNG)
